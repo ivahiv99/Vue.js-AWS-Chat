@@ -1,12 +1,12 @@
 <template>
   <div>
-    log in page
+    my profile
   </div>
 </template>
 
 <script lang="ts">
 import Vue from "vue";
 export default Vue.extend({
-  name: "LogIn"
+  name: "MyProfile"
 });
 </script>
